@@ -13,4 +13,4 @@ There are different types of t-tests depending on the characteristics of your da
 
 3.	One-Sample T-test: Used to compare the mean of a single sample to a hypothesized value.
 
-Example (Paired Sample T-Test)
+Example (Paired Sample T-Test) :
