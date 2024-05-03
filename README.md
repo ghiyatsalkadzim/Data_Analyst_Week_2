@@ -44,24 +44,24 @@ Regression is a statistical method used to understand and model the relationship
 - The historical data must be patterned
 - Complex algorithm
 
-### Preprocessing Model
+### 1) Preprocessing Model
 An important stage in the development of a good model. It involves a series of steps to clean, transform and prepare the data to make it suitable for use in regression models.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/ed81d80c-df45-4ebe-907d-2a26f12bbff8)
 
-### Machine Learning Regression - Simple Linear Regression
-#### Splitting Training and Test Set
+### 2) Machine Learning Regression - Simple Linear Regression
+#### a) Splitting Training and Test Set
 This allows us to evaluate the model's performance on never-before-seen data, which helps ensure that the model not only learns the patterns in the training data but is also able to generalize well to new data.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/873a6b67-e6f2-47f0-8cf5-826bf0dc6c6b)
 
-#### Filling Into Training
+#### b) Filling Into Training
 The process of filling in (imputing) missing values in the training dataset before training the regression model. This is important because most machine learning algorithms cannot handle missing values, so special handling of incomplete data is necessary.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/c0a27bcb-8ed0-4d2f-a5f0-1d86b8e671ef)
 
-#### Predict The Result
+#### c) Predict The Result
 The process of using a trained regression model to make predictions or estimates of the value of the dependent variable (response) based on the given values of the independent variables (predictors).
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/f11e0d32-f582-4ad1-9ffa-2cdf39c0c10f)
 
-#### Plot The Result
+#### d) Plot The Result
 The process of visualizing the predicted results produced by a regression model against the actual observed data is often useful for visualizing how well our model fits the actual data.
 - Tabel
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/fbdf5778-6e88-4063-97fd-b1cfa427e35b)
@@ -70,18 +70,26 @@ The process of visualizing the predicted results produced by a regression model 
 - Scatter Plot
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/b86522ff-a836-41fe-9e8a-154aaae899e9)
 
-### Evaluate Model
+### 3) Evaluate Model
 Model evaluation in regression serves to measure how well the trained model maps the relationship between the independent and dependent variables in the data. This evaluation helps us understand how accurate the model is in making predictions for data that has never been seen before.
-##### 1) Mean Squared Error (MSE):
+
+- Mean Squared Error (MSE):
+
 Measures the average of the squared differences between the true value of the dependent variable and the value predicted by the model. The lower the MSE value, the better the model is at making predictions.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/9cf57bf8-0d67-400a-b580-7fae30cc33cd)
-##### 2) Mean Absolute Error (MAE):
+
+- Mean Absolute Error (MAE):
+
 The average of the absolute values of the difference between the true value of the dependent variable and the value predicted by the model. MAE gives an idea of how close the model prediction is to the true value, regardless of the direction of the difference.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/dc14ccd0-d24f-4742-86ff-2fb514b91e66)
-##### 3) Mean Absolute Percentage Error (MAPE):
+
+- Mean Absolute Percentage Error (MAPE):
+
 A commonly used evaluation metric in regression to measure the relative accuracy of the model in making predictions as a percentage of the true value. 
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/e96bdfb1-c96f-4452-b9ea-32d546d595d6)
-##### 4) Coefficient of Determination (𝑅2):
+
+- Coefficient of Determination (𝑅2):
+
 Measures how well the variability in the dependent variable can be explained by the model. The value of 𝑅2 ranges from 0 to 1, where a higher value indicates a better model in explaining the variation in the data.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/fdba0b49-e7c4-4027-a34d-016133c9ae65)
 
