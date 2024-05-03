@@ -1,18 +1,18 @@
 # Data_Analytic_Week_2
-# Types of Data analysis
-## 1) Descriptive analysis
+## Types of Data analysis
+### 1) Descriptive analysis
 Descriptive analysis is a form of data examination that assists in the portrayal, illustration, or informative consolidation of data points, enabling the emergence of patterns that fulfill all the criteria of the dataset.
 
-## 2) Diagnostic analysis
+### 2) Diagnostic analysis
 Diagnostic analytics examines data to understand the root causes of events, behaviors, and outcomes. Data analysts use diverse techniques and tools to identify patterns, trends, and connections to explain why happened.
 
-## 3) Predictive analysis
+### 3) Predictive analysis
 Predictive analytics seeks to anticipate future events by examining historical data, employing statistical modeling, machine learning, and artificial intelligence to project potential outcomes.
 
-## 4) Prescriptive analysis
+### 4) Prescriptive analysis
 Prescriptive analytics delves beyond predictive analytics, examining the correlation between specific variables and their influence on the ultimate result. Its emphasis lies in determining the actions necessary to achieve desired outcomes.
 
-### Example
+#### Example
 dataset: 
 
 ![Screenshot (864)](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/134476980/f111d3d8-59cd-4ee7-aa5d-327003f6e309)
