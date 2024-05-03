@@ -72,21 +72,21 @@ The process of visualizing the predicted results produced by a regression model 
 
 ### Evaluate Model
 Model evaluation in regression serves to measure how well the trained model maps the relationship between the independent and dependent variables in the data. This evaluation helps us understand how accurate the model is in making predictions for data that has never been seen before.
-- Mean Squared Error (MSE)
-MSE measures the average of the squared differences between the true value of the dependent variable and the value predicted by the model. The lower the MSE value, the better the model is at making predictions.
+- Mean Squared Error (MSE):
+Measures the average of the squared differences between the true value of the dependent variable and the value predicted by the model. The lower the MSE value, the better the model is at making predictions.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/9cf57bf8-0d67-400a-b580-7fae30cc33cd)
-- Mean Absolute Error (MAE)
-MAE is the average of the absolute values of the difference between the true value of the dependent variable and the value predicted by the model. MAE gives an idea of how close the model prediction is to the true value, regardless of the direction of the difference.
+- Mean Absolute Error (MAE):
+The average of the absolute values of the difference between the true value of the dependent variable and the value predicted by the model. MAE gives an idea of how close the model prediction is to the true value, regardless of the direction of the difference.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/dc14ccd0-d24f-4742-86ff-2fb514b91e66)
-- Mean Absolute Percentage Error (MAPE)
+- Mean Absolute Percentage Error (MAPE):
 A commonly used evaluation metric in regression to measure the relative accuracy of the model in making predictions as a percentage of the true value. 
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/e96bdfb1-c96f-4452-b9ea-32d546d595d6)
-- Coefficient of Determination (𝑅2)
-R2 measures how well the variability in the dependent variable can be explained by the model. The value of 𝑅2 ranges from 0 to 1, where a higher value indicates a better model in explaining the variation in the data.
+- Coefficient of Determination (𝑅2):
+Measures how well the variability in the dependent variable can be explained by the model. The value of 𝑅2 ranges from 0 to 1, where a higher value indicates a better model in explaining the variation in the data.
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/fdba0b49-e7c4-4027-a34d-016133c9ae65)
 
 ### Artificial Intellegence (AI) VS Machine Learning (ML) VS Deep Learning (DL)
-![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/3f62107f-8fea-4c9f-ad8c-15042ae077eb)
+![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165861920/74156ba1-ada0-411d-9962-0bd702a04745)
 In the context of AI, Machine Learning is one of the approaches used to achieve AI goals, while Deep Learning is a technique used in Machine Learning to model highly complex data using deep artificial neural networks. All of this is part of an effort to create intelligent systems that are able to learn from data in a human-like manner.
 
 
