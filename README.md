@@ -30,13 +30,24 @@ T-tests are a family of statistical procedures used to compare the means of two 
 There are different types of t-tests depending on the characteristics of your data and the research question:
 1.	Independent Samples T-test: Used to compare the means of two independent groups.
 
+![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165742717/8620d7d2-d494-4280-ac3a-06e887421bf2)
+
 
 2.	Paired Samples T-test: Used to compare the means of two groups where the same subjects are involved.
+
+![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165742717/90d4c591-e978-4ab3-9b57-703054476d57)
 
 
 3.	One-Sample T-test: Used to compare the mean of a single sample to a hypothesized value.
 
+![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165742717/5410f66d-0bc1-4802-be46-7ad466fca897)
+
+
 Example (Paired Sample T-Test) :
+
+![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165742717/26834e25-c6da-46e0-9281-222370b7deb4)
+
+
 
 ## Machine Learning Regression
 Regression is a statistical method used to understand and model the relationship between one or more independent variables and a dependent variable. The main purpose of regression analysis is to understand the extent to which the independent variables contribute to the variation in the dependent variable, as well as to predict the value of the dependent variable based on the values of the independent variables.
