@@ -11,6 +11,43 @@ Predictive analytics seeks to anticipate future events by examining historical d
 
 ### 4) Prescriptive analysis
 Prescriptive analytics delves beyond predictive analytics, examining the correlation between specific variables and their influence on the ultimate result. Its emphasis lies in determining the actions necessary to achieve desired outcomes.
+### Example: 
+#### Study case
+title: Lack of public interest in using online driver than traditional driver
+
+In Jakarta City, traditional driver (ojek pangkalan) has long been a favorite transportation option for locals. However, in recent years, there has been a significant decline in interest in using traditional driver. traditional driver have reported a significant drop in income, while users have also turned to other alternatives such as online online online driver and public transportation. 
+
+- Root causes
+    - Technology Imbalance
+    - Lack of Innovation
+    - Consumer Awareness
+
+- Solution
+    - Technology Imbalance
+        - Collaborate with online driver applications for integration with online driver services, so that users can choose between online driver and traditional driver in one application. 
+        - traditional driver can develop their own applications or digital platforms to improve service quality, price transparency, and convenience for consumers.
+    - Lack of Innovation
+        - Conduct training for traditional driver to blend with technology
+        - Conduct training to traditional driver to improve service quality. Good service quality is an attraction for consumers
+    - Consumer Awareness
+        - Partnerships with local communities such as community organizations or youth groups, to disseminate information about services at traditional driver.
+        - Free demonstration and trial programs where the public can try services at traditional driver bases for free or with discounts
+
+## Data Storytelling
+Data storytelling is a method used to convey information by combining data, visualization, and narrative in one unit.
+
+### Why Use Data Storytelling?
+#### - Presenting data in a more interesting and understandable way.
+By presenting data in the form of a narrative/story, stakeholders can more quickly and easily understand the information presented.
+
+#### - Helps communication
+With data storytelling, data analysts can ensure that everyone, regardless of their background and technical knowledge, can understand the data well
+
+#### - Improving decision-making
+By understanding the story behind the data, decision makers (such as executives or managers) can make more informed decisions based on facts
+
+#### -Attract attention and engagement
+Using data storytelling, analysts can increase the engagement and participation of non-technical stakeholders in data-driven discussions and decision-making.
 
 #### Example
 dataset: 
