@@ -24,6 +24,16 @@ uses df.describe() to display data such as mean, median, mode, max, min.
 COVID-19 is an infectious disease caused by a newly discovered strain of coronavirus. This new virus and the disease it causes were unknown before the start of the outbreak in Wuhan, China, in December 2019. COVID-19 has become a pandemic in many countries around the world. In the analysis of COVID-19 data from several selected countries, there are approximately 50 million total covid cases in the world. The average total deaths were 31 thousand, where the lowest number of deaths was 21 out of a total of 62 thousand cases in Bhutan. On the other hand, India stands out with the highest number of deaths, reaching a total of 532 thousand deaths from . Although India has the largest population among the selected countries, the high testing effort with 930 million tests shows commitment in handling the pandemic. However, the complexity of handling the pandemic in India is compounded by the large scale of the population. This highlights the importance of an adaptive and effective coping strategy in the face of the COVID-19 pandemic.
     India's high testing and population suggest continued COVID-19 challenges. Without effective containment and vaccination, cases and deaths may rise. Other countries with successful vaccination efforts may see declines, but new variants could alter outcomes globally.
 
+## Correlation
+Correlation analysis is a statistical technique used to measure the strength and direction of the linear relationship between two quantitative variables. In Jupyter Notebook, you can effectively perform correlation analysis using Python libraries like pandas and seaborn.
+
+### Correlation Positive (+) and Negative (-)
+- Positive correlation (+): When one variable increases, the other tends to increase as well. A correlation coefficient closer to +1 signifies a stronger positive relationship.
+- Negative correlation (-): When one variable increases, the other tends to decrease. A correlation coefficient closer to -1 indicates a stronger negative relationship.
+
+Example:![correlation](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/101807673/7dc2638e-0c29-4e79-9558-7667f1c0e90d)
+
+
 ## T-Tests
 T-tests are a family of statistical procedures used to compare the means of two groups. They are a fundamental tool in inferential statistics, allowing to assess whether the observed difference between two groups is likely due to random chance or reflects a true underlying difference in the population.
 
