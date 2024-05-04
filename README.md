@@ -33,12 +33,12 @@ There are different types of t-tests depending on the characteristics of your da
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165742717/8620d7d2-d494-4280-ac3a-06e887421bf2)
 
 
-#### 2.	Paired Samples T-test: Used to compare the means of two groups where the same subjects are involved.
+### 2.	Paired Samples T-test: Used to compare the means of two groups where the same subjects are involved.
 
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165742717/90d4c591-e978-4ab3-9b57-703054476d57)
 
 
-#### 3.	One-Sample T-test: Used to compare the mean of a single sample to a hypothesized value.
+### 3.	One-Sample T-test: Used to compare the mean of a single sample to a hypothesized value.
 
 ![image](https://github.com/ghiyatsalkadzim/Data_Analyst_Week_2/assets/165742717/5410f66d-0bc1-4802-be46-7ad466fca897)
 
